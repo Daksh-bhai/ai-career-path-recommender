@@ -1,0 +1,8 @@
+flask
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+joblib
+spacy
