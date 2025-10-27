@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Student Career Input Schema",
+  "description": "Schema defining the student inputs for career path recommendation",
+  "type": "object",
+  "properties": {
+    "academic": {
+      "type": "object",
+      "properties": {
+        "cgpa": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 10
+        },
+        "favourite_subjects": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "academic_stream": {
+          "type": "string"
+        }
+      },
+      "required": ["cgpa", "favourite_subjects"]
+    },
+    "skills": {
+      "type": "object",
+      "properties": {
+        "technical_skills": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "soft_skills": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "skill_level": {
+          "type": "string",
+          "enum": ["Beginner", "Intermediate", "Advanced"]
+        }
+      },
+      "required": ["technical_skills", "skill_level"]
+    },
+    "interests": {
+      "type": "object",
+      "properties": {
+        "career_interests": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "learning_interest_level": {
+          "type": "number",
+          "minimum": 1,
+          "maximum": 10
+        },
+        "preferred_work_area": {
+          "type": "string"
+        }
+      },
+      "required": ["career_interests", "preferred_work_area"]
+    }
+  },
+  "required": ["academic", "skills", "interests"]
+}
