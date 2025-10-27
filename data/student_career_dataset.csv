@@ -1,0 +1,251 @@
+cgpa,favourite_subjects,technical_skills,skill_level,career_interests,recommended_career
+8.71,"AI,Security,Ethics","TensorFlow,SQL,Python",Advanced,Data Science,Data Scientist
+9.36,"DBMS,AI,Web Design","SQL,React,Excel",Beginner,AI Research,ML Engineer
+8.99,"Cloud,Maths,AI","SQL,CSS,TensorFlow",Beginner,Data Analytics,Data Analyst
+8.22,"Cloud,OS,DBMS","CSS,SQL,Docker",Beginner,UI/UX Design,UI/UX Designer
+9.79,"OS,Security,Web Design","Linux,Python,React",Beginner,Data Science,Data Scientist
+7.24,"Networking,Programming,Ethics","TensorFlow,Excel,R",Intermediate,UI/UX Design,UI/UX Designer
+6.3,"UI,OS,Security","TensorFlow,Linux,R",Advanced,Cloud Computing,Cloud Engineer
+6.9,"Security,OS,Cloud","Excel,Python,HTML",Advanced,AI Research,ML Engineer
+7.03,"OS,DBMS,Security","Linux,AWS,Python",Advanced,UI/UX Design,UI/UX Designer
+9.57,"UI,Programming,OS","AWS,JavaScript,HTML",Beginner,Web Development,Frontend Developer
+7.55,"OS,Statistics,AI","HTML,TensorFlow,CSS",Advanced,Software Development,Software Developer
+8.69,"OS,Maths,Web Design","C++,Docker,Python",Advanced,Software Development,Software Developer
+8.8,"Statistics,Security,Programming","Linux,SQL,Python",Advanced,AI Research,ML Engineer
+7.5,"AI,Statistics,Maths","HTML,TensorFlow,AWS",Advanced,Cloud Computing,Cloud Engineer
+6.05,"Maths,Ethics,OS","C++,Linux,R",Advanced,Data Analytics,Data Analyst
+9.53,"Maths,AI,Networking","AWS,React,SQL",Advanced,UI/UX Design,UI/UX Designer
+6.81,"Maths,Statistics,AI","JavaScript,Python,React",Advanced,Data Analytics,Data Analyst
+7.1,"DBMS,Statistics,Networking","SQL,C++,R",Intermediate,Cloud Computing,Cloud Engineer
+8.84,"OS,Cloud,Security","Excel,AWS,TensorFlow",Intermediate,Data Analytics,Data Analyst
+9.58,"Networking,Web Design,Cloud","Docker,JavaScript,AWS",Beginner,Data Science,Data Scientist
+9.06,"UI,AI,Security","SQL,C++,CSS",Intermediate,Web Development,Frontend Developer
+7.71,"UI,Cloud,Networking","SQL,JavaScript,React",Beginner,Data Analytics,Data Analyst
+7.57,"Maths,Statistics,Security","C++,Excel,CSS",Advanced,Web Development,Frontend Developer
+7.69,"Security,Ethics,Statistics","Linux,CSS,R",Beginner,Cybersecurity,Security Analyst
+6.46,"Programming,Maths,Statistics","JavaScript,C++,CSS",Advanced,Data Analytics,Data Analyst
+7.84,"Networking,Web Design,Statistics","Excel,JavaScript,AWS",Intermediate,Data Analytics,Data Analyst
+8.65,"UI,Security,Maths","AWS,Linux,SQL",Intermediate,UI/UX Design,UI/UX Designer
+7.09,"Cloud,Web Design,Maths","Python,TensorFlow,C++",Intermediate,UI/UX Design,UI/UX Designer
+8.11,"Ethics,AI,Maths","Docker,SQL,JavaScript",Beginner,AI Research,ML Engineer
+8.9,"Programming,UI,Statistics","Python,R,JavaScript",Beginner,Data Analytics,Data Analyst
+9.06,"AI,Security,OS","JavaScript,AWS,CSS",Intermediate,UI/UX Design,UI/UX Designer
+9.33,"OS,Statistics,AI","CSS,C++,Docker",Intermediate,Web Development,Frontend Developer
+9.61,"Maths,AI,Web Design","TensorFlow,Excel,Linux",Intermediate,Data Science,Data Scientist
+8.34,"Maths,AI,Statistics","Python,AWS,HTML",Beginner,Data Science,Data Scientist
+8.12,"Maths,DBMS,UI","Excel,Docker,C++",Advanced,Web Development,Frontend Developer
+7.74,"Maths,UI,DBMS","C++,SQL,HTML",Advanced,Data Analytics,Data Analyst
+8.76,"Networking,Maths,Ethics","Linux,SQL,Python",Beginner,Data Science,Data Scientist
+8.3,"DBMS,AI,Maths","HTML,C++,Python",Advanced,UI/UX Design,UI/UX Designer
+7.13,"DBMS,Ethics,Security","Excel,JavaScript,SQL",Intermediate,Web Development,Frontend Developer
+6.29,"AI,UI,Cloud","Excel,React,JavaScript",Intermediate,AI Research,ML Engineer
+6.8,"UI,Security,Ethics","TensorFlow,JavaScript,Python",Beginner,Data Analytics,Data Analyst
+7.28,"Web Design,UI,Security","C++,R,Linux",Intermediate,AI Research,ML Engineer
+6.67,"Security,AI,Networking","React,CSS,Excel",Intermediate,Web Development,Frontend Developer
+9.73,"Programming,Cloud,Statistics","HTML,Linux,CSS",Advanced,AI Research,ML Engineer
+8.96,"UI,Maths,AI","Linux,C++,Excel",Advanced,Software Development,Software Developer
+8.6,"Ethics,Maths,Networking","CSS,Docker,Python",Advanced,AI Research,ML Engineer
+7.6,"OS,Statistics,UI","CSS,JavaScript,Docker",Beginner,AI Research,ML Engineer
+6.41,"Networking,Statistics,Web Design","HTML,R,AWS",Beginner,Data Analytics,Data Analyst
+7.64,"AI,OS,Cloud","HTML,React,AWS",Beginner,Software Development,Software Developer
+8.31,"OS,Statistics,Networking","Docker,CSS,React",Advanced,Software Development,Software Developer
+9.69,"DBMS,Cloud,Security","HTML,CSS,React",Intermediate,Cybersecurity,Security Analyst
+7.11,"Maths,Web Design,Networking","Excel,SQL,Linux",Advanced,Data Science,Data Scientist
+8.04,"Statistics,Cloud,Networking","Linux,React,R",Beginner,Data Science,Data Scientist
+7.36,"DBMS,Cloud,Web Design","Linux,C++,Docker",Advanced,Data Analytics,Data Analyst
+9.25,"DBMS,Programming,Cloud","R,Linux,TensorFlow",Advanced,AI Research,ML Engineer
+8.61,"AI,Networking,Programming","CSS,AWS,Python",Advanced,Web Development,Frontend Developer
+9.52,"Web Design,AI,Statistics","TensorFlow,Docker,AWS",Intermediate,Web Development,Frontend Developer
+8.2,"Ethics,AI,Cloud","SQL,AWS,Excel",Intermediate,Data Analytics,Data Analyst
+6.85,"AI,UI,Security","C++,Excel,Python",Beginner,Software Development,Software Developer
+6.71,"DBMS,Statistics,Cloud","CSS,React,HTML",Advanced,UI/UX Design,UI/UX Designer
+6.02,"Ethics,AI,Web Design","C++,Linux,AWS",Intermediate,Data Science,Data Scientist
+6.48,"Security,Programming,Networking","CSS,JavaScript,Linux",Advanced,Software Development,Software Developer
+9.68,"Networking,Web Design,Cloud","JavaScript,Python,C++",Advanced,Data Science,Data Scientist
+7.37,"Cloud,Security,UI","TensorFlow,React,Docker",Advanced,Cloud Computing,Cloud Engineer
+8.98,"Networking,DBMS,Statistics","JavaScript,Excel,SQL",Beginner,Software Development,Software Developer
+9.59,"UI,Programming,OS","AWS,R,JavaScript",Advanced,Cybersecurity,Security Analyst
+6.08,"Web Design,OS,Security","JavaScript,CSS,Docker",Beginner,Data Science,Data Scientist
+7.75,"Web Design,DBMS,Programming","HTML,SQL,React",Beginner,UI/UX Design,UI/UX Designer
+7.27,"UI,Security,Statistics","HTML,C++,Python",Advanced,UI/UX Design,UI/UX Designer
+8.27,"Security,DBMS,AI","Docker,TensorFlow,C++",Beginner,Cybersecurity,Security Analyst
+7.57,"Security,Networking,Web Design","Python,TensorFlow,React",Advanced,Data Analytics,Data Analyst
+6.84,"Ethics,Web Design,Security","TensorFlow,SQL,HTML",Beginner,UI/UX Design,UI/UX Designer
+9.13,"OS,Cloud,Statistics","React,TensorFlow,C++",Beginner,UI/UX Design,UI/UX Designer
+9.76,"OS,Web Design,Ethics","React,SQL,TensorFlow",Beginner,UI/UX Design,UI/UX Designer
+7.9,"DBMS,Networking,OS","React,Docker,Python",Intermediate,Web Development,Frontend Developer
+8.65,"Security,Cloud,AI","C++,SQL,Excel",Advanced,Software Development,Software Developer
+6.44,"Maths,Ethics,UI","JavaScript,C++,TensorFlow",Advanced,AI Research,ML Engineer
+6.58,"Programming,Maths,Networking","React,R,SQL",Intermediate,Data Analytics,Data Analyst
+7.28,"Programming,Security,UI","TensorFlow,React,Docker",Beginner,Cloud Computing,Cloud Engineer
+9.51,"DBMS,Security,Networking","HTML,React,AWS",Advanced,Data Analytics,Data Analyst
+6.69,"Statistics,Maths,Security","CSS,Python,R",Advanced,Cloud Computing,Cloud Engineer
+8.85,"Ethics,UI,Statistics","Linux,Docker,R",Advanced,Web Development,Frontend Developer
+6.04,"DBMS,Maths,Security","CSS,Excel,AWS",Beginner,Web Development,Frontend Developer
+6.21,"Cloud,Web Design,DBMS","R,TensorFlow,React",Advanced,Cybersecurity,Security Analyst
+8.14,"Statistics,Security,Programming","HTML,Python,SQL",Advanced,Cybersecurity,Security Analyst
+7.55,"Security,OS,Maths","R,JavaScript,Python",Advanced,Software Development,Software Developer
+6.63,"Programming,Maths,OS","TensorFlow,R,SQL",Intermediate,AI Research,ML Engineer
+6.3,"UI,DBMS,Programming","SQL,Docker,CSS",Beginner,Cybersecurity,Security Analyst
+7.12,"UI,Maths,DBMS","AWS,SQL,TensorFlow",Intermediate,Software Development,Software Developer
+7.0,"Security,DBMS,AI","AWS,Linux,Python",Beginner,Cybersecurity,Security Analyst
+7.24,"DBMS,Cloud,Security","CSS,Linux,JavaScript",Intermediate,AI Research,ML Engineer
+8.62,"UI,Networking,DBMS","Linux,CSS,Excel",Advanced,AI Research,ML Engineer
+8.93,"OS,Security,Cloud","C++,Python,AWS",Intermediate,AI Research,ML Engineer
+8.14,"Cloud,UI,DBMS","CSS,Docker,Python",Advanced,AI Research,ML Engineer
+8.71,"Maths,AI,Statistics","React,JavaScript,Excel",Beginner,UI/UX Design,UI/UX Designer
+9.35,"Web Design,DBMS,Security","SQL,CSS,C++",Beginner,AI Research,ML Engineer
+8.66,"Web Design,Maths,Security","AWS,Excel,HTML",Advanced,Data Analytics,Data Analyst
+6.79,"Cloud,UI,Statistics","CSS,React,JavaScript",Beginner,UI/UX Design,UI/UX Designer
+7.5,"Networking,Statistics,Cloud","HTML,R,SQL",Beginner,Software Development,Software Developer
+9.48,"Web Design,Ethics,Networking","JavaScript,CSS,SQL",Intermediate,AI Research,ML Engineer
+8.52,"Statistics,Networking,Maths","React,Linux,TensorFlow",Beginner,AI Research,ML Engineer
+8.38,"AI,DBMS,UI","C++,JavaScript,CSS",Intermediate,Data Science,Data Scientist
+9.21,"Ethics,OS,Web Design","Docker,Excel,C++",Intermediate,UI/UX Design,UI/UX Designer
+8.97,"OS,Cloud,Networking","Excel,Linux,JavaScript",Beginner,Cybersecurity,Security Analyst
+7.65,"Web Design,UI,Cloud","Excel,AWS,TensorFlow",Intermediate,UI/UX Design,UI/UX Designer
+8.85,"Maths,AI,UI","SQL,C++,JavaScript",Beginner,Data Analytics,Data Analyst
+7.74,"Maths,OS,Ethics","JavaScript,Python,React",Intermediate,UI/UX Design,UI/UX Designer
+9.64,"OS,Networking,UI","Linux,JavaScript,CSS",Advanced,UI/UX Design,UI/UX Designer
+7.43,"Statistics,Ethics,Programming","CSS,Docker,R",Beginner,UI/UX Design,UI/UX Designer
+9.46,"Maths,Networking,Statistics","HTML,Linux,R",Advanced,Software Development,Software Developer
+7.97,"Security,DBMS,Cloud","TensorFlow,R,Linux",Intermediate,Data Analytics,Data Analyst
+9.37,"Web Design,AI,Security","C++,AWS,Docker",Beginner,AI Research,ML Engineer
+7.11,"AI,Security,OS","SQL,Linux,Excel",Advanced,Data Analytics,Data Analyst
+6.48,"UI,OS,Web Design","TensorFlow,HTML,Excel",Advanced,Data Analytics,Data Analyst
+8.77,"UI,DBMS,Ethics","SQL,Docker,Python",Beginner,Data Analytics,Data Analyst
+9.45,"AI,Programming,UI","JavaScript,CSS,Docker",Beginner,Cloud Computing,Cloud Engineer
+9.52,"Ethics,Maths,Programming","AWS,SQL,Excel",Intermediate,Data Analytics,Data Analyst
+8.38,"UI,Security,OS","JavaScript,CSS,Linux",Beginner,AI Research,ML Engineer
+7.65,"Networking,DBMS,Security","TensorFlow,C++,JavaScript",Beginner,Web Development,Frontend Developer
+7.19,"Networking,AI,Web Design","C++,JavaScript,HTML",Beginner,Cybersecurity,Security Analyst
+6.88,"DBMS,Security,AI","JavaScript,SQL,AWS",Beginner,UI/UX Design,UI/UX Designer
+7.78,"Cloud,Programming,Networking","R,Docker,SQL",Intermediate,Data Science,Data Scientist
+6.73,"Cloud,OS,Ethics","TensorFlow,R,AWS",Advanced,Web Development,Frontend Developer
+7.45,"AI,Cloud,Ethics","AWS,Python,Excel",Beginner,Data Science,Data Scientist
+9.3,"OS,DBMS,UI","Excel,R,Docker",Advanced,Cybersecurity,Security Analyst
+7.89,"AI,UI,Maths","Docker,CSS,R",Advanced,Data Analytics,Data Analyst
+8.78,"Networking,DBMS,Maths","Python,Linux,C++",Intermediate,AI Research,ML Engineer
+9.78,"Programming,OS,AI","Excel,Python,React",Advanced,UI/UX Design,UI/UX Designer
+7.38,"OS,Programming,Ethics","Linux,JavaScript,R",Intermediate,Cloud Computing,Cloud Engineer
+9.65,"Security,Statistics,UI","C++,TensorFlow,R",Intermediate,Web Development,Frontend Developer
+9.05,"OS,DBMS,AI","SQL,Docker,Excel",Beginner,Web Development,Frontend Developer
+7.77,"AI,DBMS,Web Design","Docker,HTML,React",Beginner,UI/UX Design,UI/UX Designer
+7.62,"AI,Statistics,Ethics","TensorFlow,AWS,C++",Intermediate,Data Science,Data Scientist
+6.79,"OS,Security,UI","R,HTML,CSS",Beginner,Software Development,Software Developer
+7.22,"Cloud,Programming,Security","TensorFlow,AWS,Docker",Intermediate,AI Research,ML Engineer
+6.12,"Maths,Programming,Web Design","Excel,CSS,TensorFlow",Intermediate,Data Science,Data Scientist
+7.96,"Programming,OS,Networking","CSS,C++,Linux",Beginner,Data Science,Data Scientist
+6.27,"Programming,AI,Statistics","CSS,Docker,React",Advanced,Data Science,Data Scientist
+6.35,"Networking,Ethics,OS","CSS,TensorFlow,HTML",Beginner,UI/UX Design,UI/UX Designer
+8.18,"OS,DBMS,Web Design","C++,Docker,HTML",Advanced,UI/UX Design,UI/UX Designer
+9.66,"Cloud,UI,Programming","React,AWS,JavaScript",Intermediate,Software Development,Software Developer
+6.52,"DBMS,Maths,Networking","Linux,Docker,AWS",Advanced,AI Research,ML Engineer
+7.0,"AI,DBMS,Statistics","Linux,CSS,R",Beginner,Data Analytics,Data Analyst
+8.96,"DBMS,UI,OS","AWS,SQL,CSS",Advanced,Data Analytics,Data Analyst
+7.72,"UI,Maths,AI","Linux,React,R",Advanced,UI/UX Design,UI/UX Designer
+7.59,"AI,OS,DBMS","CSS,JavaScript,R",Intermediate,AI Research,ML Engineer
+6.09,"Web Design,Statistics,Programming","AWS,Docker,TensorFlow",Beginner,Cloud Computing,Cloud Engineer
+9.51,"UI,Ethics,DBMS","HTML,Excel,JavaScript",Beginner,Cloud Computing,Cloud Engineer
+7.46,"Networking,Cloud,Security","R,Linux,TensorFlow",Beginner,Data Analytics,Data Analyst
+9.75,"Security,Web Design,Ethics","Python,Excel,React",Advanced,Web Development,Frontend Developer
+8.92,"Web Design,UI,Programming","TensorFlow,C++,Python",Beginner,AI Research,ML Engineer
+7.63,"Programming,Networking,Security","Docker,C++,HTML",Intermediate,UI/UX Design,UI/UX Designer
+6.14,"Cloud,AI,Web Design","React,SQL,CSS",Advanced,Cybersecurity,Security Analyst
+6.42,"Programming,Cloud,AI","React,Python,Docker",Beginner,UI/UX Design,UI/UX Designer
+7.45,"Cloud,Networking,Security","Python,JavaScript,CSS",Intermediate,Cloud Computing,Cloud Engineer
+9.62,"Programming,Maths,Ethics","AWS,React,Docker",Intermediate,Software Development,Software Developer
+9.27,"OS,Programming,DBMS","CSS,Linux,C++",Beginner,Web Development,Frontend Developer
+9.42,"UI,AI,Statistics","SQL,Python,Excel",Advanced,Data Analytics,Data Analyst
+7.34,"UI,Security,Web Design","JavaScript,TensorFlow,SQL",Beginner,Web Development,Frontend Developer
+7.5,"Statistics,UI,Programming","Linux,Excel,AWS",Beginner,Data Analytics,Data Analyst
+8.5,"UI,Security,Programming","Docker,React,HTML",Beginner,Data Analytics,Data Analyst
+6.62,"DBMS,UI,OS","React,AWS,Python",Beginner,Cloud Computing,Cloud Engineer
+7.7,"Programming,Security,Cloud","Python,R,SQL",Intermediate,Cybersecurity,Security Analyst
+7.23,"Web Design,OS,Maths","CSS,React,R",Intermediate,Cybersecurity,Security Analyst
+9.71,"DBMS,Web Design,OS","Excel,SQL,C++",Beginner,UI/UX Design,UI/UX Designer
+8.15,"Programming,Cloud,Networking","CSS,C++,Excel",Intermediate,Data Analytics,Data Analyst
+8.78,"Networking,Ethics,Programming","TensorFlow,Python,SQL",Intermediate,Cloud Computing,Cloud Engineer
+8.68,"UI,Security,Programming","JavaScript,React,Linux",Beginner,Data Science,Data Scientist
+8.2,"UI,Networking,Web Design","CSS,Excel,SQL",Beginner,Cloud Computing,Cloud Engineer
+6.64,"Ethics,DBMS,Cloud","SQL,R,Excel",Advanced,Data Science,Data Scientist
+7.63,"Maths,Networking,Statistics","SQL,CSS,C++",Beginner,Web Development,Frontend Developer
+6.73,"Web Design,Security,Programming","AWS,Python,R",Advanced,Software Development,Software Developer
+8.43,"AI,Maths,UI","Python,JavaScript,R",Intermediate,Cloud Computing,Cloud Engineer
+8.18,"AI,Security,Statistics","CSS,Docker,Linux",Advanced,Cloud Computing,Cloud Engineer
+7.81,"UI,Security,Programming","AWS,React,Docker",Beginner,AI Research,ML Engineer
+8.87,"Ethics,DBMS,Web Design","JavaScript,Linux,TensorFlow",Advanced,Cloud Computing,Cloud Engineer
+6.18,"Maths,Statistics,Web Design","Excel,R,AWS",Beginner,Cybersecurity,Security Analyst
+6.0,"Cloud,Networking,AI","Docker,Python,C++",Intermediate,Cloud Computing,Cloud Engineer
+9.33,"DBMS,Statistics,Security","HTML,C++,R",Advanced,Cybersecurity,Security Analyst
+7.4,"Maths,Networking,DBMS","Excel,React,AWS",Beginner,Data Science,Data Scientist
+9.25,"Networking,Maths,Cloud","C++,Docker,SQL",Intermediate,UI/UX Design,UI/UX Designer
+7.84,"Networking,Web Design,Statistics","JavaScript,HTML,AWS",Intermediate,Cybersecurity,Security Analyst
+8.23,"Cloud,Programming,Web Design","Excel,Python,R",Intermediate,Cybersecurity,Security Analyst
+7.2,"DBMS,Maths,AI","C++,React,JavaScript",Beginner,Web Development,Frontend Developer
+7.41,"Programming,Statistics,AI","HTML,SQL,C++",Beginner,Software Development,Software Developer
+6.77,"Networking,OS,DBMS","JavaScript,Excel,C++",Advanced,UI/UX Design,UI/UX Designer
+6.27,"Maths,Networking,AI","HTML,CSS,Excel",Advanced,Cloud Computing,Cloud Engineer
+6.44,"AI,Programming,Cloud","CSS,AWS,HTML",Advanced,Web Development,Frontend Developer
+8.82,"Statistics,Cloud,OS","TensorFlow,R,C++",Intermediate,AI Research,ML Engineer
+7.65,"Networking,DBMS,Ethics","R,SQL,Docker",Beginner,Software Development,Software Developer
+7.89,"DBMS,OS,Security","Docker,CSS,SQL",Intermediate,AI Research,ML Engineer
+7.36,"Networking,Cloud,AI","Excel,React,TensorFlow",Beginner,UI/UX Design,UI/UX Designer
+7.99,"Ethics,DBMS,OS","HTML,CSS,Docker",Advanced,Web Development,Frontend Developer
+9.64,"UI,Networking,DBMS","TensorFlow,R,Excel",Beginner,AI Research,ML Engineer
+8.79,"Networking,AI,Web Design","React,Excel,CSS",Advanced,Data Science,Data Scientist
+8.22,"Programming,Cloud,OS","SQL,TensorFlow,Docker",Beginner,Data Science,Data Scientist
+8.33,"Maths,Cloud,Statistics","Docker,C++,SQL",Advanced,Software Development,Software Developer
+7.62,"UI,DBMS,Ethics","Excel,SQL,R",Beginner,Web Development,Frontend Developer
+7.06,"Ethics,DBMS,Security","R,HTML,TensorFlow",Intermediate,UI/UX Design,UI/UX Designer
+9.23,"Programming,Statistics,Maths","HTML,JavaScript,Python",Advanced,AI Research,ML Engineer
+8.65,"Cloud,Statistics,OS","React,Python,C++",Advanced,Cloud Computing,Cloud Engineer
+8.13,"AI,DBMS,Statistics","HTML,AWS,JavaScript",Intermediate,Data Science,Data Scientist
+9.01,"Programming,AI,Security","TensorFlow,SQL,CSS",Advanced,UI/UX Design,UI/UX Designer
+8.61,"Ethics,Cloud,Networking","TensorFlow,Excel,C++",Beginner,Web Development,Frontend Developer
+7.4,"OS,Web Design,Statistics","SQL,HTML,React",Beginner,AI Research,ML Engineer
+7.42,"Programming,UI,Web Design","Linux,React,HTML",Advanced,Data Science,Data Scientist
+8.19,"Security,Ethics,Programming","Excel,CSS,AWS",Advanced,AI Research,ML Engineer
+7.87,"DBMS,UI,Networking","R,HTML,Docker",Advanced,Software Development,Software Developer
+6.46,"Security,OS,AI","R,TensorFlow,React",Advanced,Data Analytics,Data Analyst
+6.29,"Programming,Security,OS","CSS,Excel,JavaScript",Intermediate,Software Development,Software Developer
+6.71,"OS,Programming,Web Design","C++,TensorFlow,Excel",Beginner,AI Research,ML Engineer
+9.08,"Ethics,Programming,Statistics","CSS,React,Python",Beginner,Web Development,Frontend Developer
+8.15,"OS,UI,Networking","Excel,Python,HTML",Intermediate,Data Analytics,Data Analyst
+8.45,"Maths,DBMS,Ethics","Python,C++,TensorFlow",Beginner,Data Science,Data Scientist
+9.15,"AI,DBMS,UI","React,Docker,CSS",Beginner,Cloud Computing,Cloud Engineer
+6.83,"Statistics,Cloud,UI","TensorFlow,Excel,Docker",Intermediate,Cybersecurity,Security Analyst
+7.9,"Cloud,OS,Programming","Excel,R,Linux",Beginner,UI/UX Design,UI/UX Designer
+9.12,"Maths,Programming,Cloud","React,Linux,TensorFlow",Advanced,Data Analytics,Data Analyst
+8.96,"Ethics,OS,Statistics","React,JavaScript,SQL",Beginner,Cloud Computing,Cloud Engineer
+8.42,"Security,DBMS,Ethics","JavaScript,HTML,React",Beginner,UI/UX Design,UI/UX Designer
+6.68,"AI,Cloud,OS","HTML,Linux,SQL",Beginner,Cybersecurity,Security Analyst
+7.1,"Security,AI,Programming","AWS,React,Python",Advanced,Cloud Computing,Cloud Engineer
+9.76,"OS,Ethics,UI","SQL,Excel,React",Intermediate,UI/UX Design,UI/UX Designer
+7.16,"Cloud,Ethics,OS","C++,SQL,AWS",Intermediate,Software Development,Software Developer
+8.41,"Web Design,Networking,Ethics","React,Linux,Excel",Intermediate,AI Research,ML Engineer
+6.25,"DBMS,Programming,UI","HTML,React,AWS",Advanced,Data Analytics,Data Analyst
+8.53,"Maths,Networking,UI","Python,JavaScript,Excel",Beginner,UI/UX Design,UI/UX Designer
+6.13,"Programming,DBMS,Networking","C++,TensorFlow,CSS",Intermediate,Software Development,Software Developer
+6.46,"AI,Security,Maths","SQL,HTML,C++",Intermediate,Data Analytics,Data Analyst
+9.36,"UI,Web Design,Cloud","Docker,TensorFlow,SQL",Beginner,Data Analytics,Data Analyst
+8.28,"DBMS,UI,Web Design","C++,Linux,Excel",Beginner,Data Analytics,Data Analyst
+9.76,"DBMS,Maths,OS","Linux,AWS,SQL",Beginner,Cybersecurity,Security Analyst
+6.86,"AI,Cloud,UI","Excel,Linux,HTML",Intermediate,AI Research,ML Engineer
+7.3,"OS,Ethics,Programming","Docker,Linux,Python",Advanced,UI/UX Design,UI/UX Designer
+6.28,"OS,UI,AI","R,CSS,Linux",Advanced,Software Development,Software Developer
+7.99,"Cloud,OS,AI","Docker,C++,Excel",Advanced,Data Science,Data Scientist
+7.56,"OS,Ethics,DBMS","Excel,AWS,R",Advanced,Cybersecurity,Security Analyst
+7.4,"UI,Cloud,Ethics","CSS,TensorFlow,C++",Advanced,Data Science,Data Scientist
+6.83,"Security,OS,AI","Docker,Python,AWS",Intermediate,Cloud Computing,Cloud Engineer
+8.54,"Web Design,Programming,Ethics","C++,Linux,CSS",Intermediate,UI/UX Design,UI/UX Designer
+8.16,"Cloud,DBMS,Web Design","HTML,Linux,JavaScript",Intermediate,Data Science,Data Scientist
+6.29,"Security,Statistics,Web Design","Linux,Python,AWS",Beginner,Web Development,Frontend Developer
+8.34,"Programming,Web Design,DBMS","TensorFlow,Excel,C++",Beginner,Data Science,Data Scientist
+7.33,"Ethics,Maths,DBMS","React,CSS,R",Intermediate,Data Science,Data Scientist
+8.45,"OS,Web Design,Statistics","React,Excel,JavaScript",Intermediate,Data Analytics,Data Analyst
+7.22,"AI,DBMS,Ethics","Linux,AWS,SQL",Advanced,Data Science,Data Scientist
+8.3,"Web Design,Ethics,Maths","CSS,R,C++",Beginner,Data Analytics,Data Analyst
+8.2,"DBMS,Programming,UI","AWS,SQL,Excel",Intermediate,Data Analytics,Data Analyst
+7.54,"Statistics,Web Design,Ethics","AWS,TensorFlow,JavaScript",Beginner,UI/UX Design,UI/UX Designer
+9.0,"Security,Cloud,Ethics","Linux,R,Python",Advanced,Cloud Computing,Cloud Engineer
