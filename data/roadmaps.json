@@ -1,0 +1,180 @@
+{
+  "Data Scientist": {
+    "skills": ["Python", "Statistics", "Machine Learning", "Data Visualization", "SQL", "Pandas", "NumPy", "Matplotlib", "Deep Learning"],
+    "courses": [
+      "Data Science with Python",
+      "Statistics for Data Analysis",
+      "Machine Learning A–Z",
+      "SQL for Data Analytics",
+      "Deep Learning Specialization by Andrew Ng"
+    ],
+    "roadmap": [
+      "Start with Python programming and libraries like NumPy, Pandas, Matplotlib",
+      "Learn Statistics, Probability, and Linear Algebra fundamentals",
+      "Understand supervised and unsupervised ML algorithms",
+      "Practice model building using Scikit-learn",
+      "Work on real datasets from Kaggle",
+      "Explore Deep Learning (TensorFlow / PyTorch)",
+      "Build 2–3 end-to-end Data Science projects"
+    ]
+  },
+  "Web Developer": {
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Node.js", "MongoDB", "Git", "APIs", "Bootstrap"],
+    "courses": [
+      "Frontend Web Development Bootcamp",
+      "The Complete JavaScript Course",
+      "React.js for Beginners",
+      "Node.js and Express Full-Stack Development"
+    ],
+    "roadmap": [
+      "Learn HTML and CSS fundamentals",
+      "Understand responsive design and accessibility",
+      "Master JavaScript ES6+ concepts",
+      "Build small frontend projects (Portfolio, To-Do List)",
+      "Learn React.js and component-based design",
+      "Understand backend basics with Node.js and Express",
+      "Integrate MongoDB for database operations",
+      "Create and deploy a full-stack project"
+    ]
+  },
+  "AI Engineer": {
+    "skills": ["Python", "Deep Learning", "Neural Networks", "TensorFlow", "Keras", "Computer Vision", "NLP", "Data Preprocessing"],
+    "courses": [
+      "Deep Learning Specialization by Andrew Ng",
+      "TensorFlow Developer Professional Certificate",
+      "Natural Language Processing with Transformers",
+      "Computer Vision Crash Course"
+    ],
+    "roadmap": [
+      "Strengthen your Python and Data Science foundation",
+      "Learn Linear Algebra, Calculus, and Probability for ML",
+      "Understand Deep Learning architectures (CNN, RNN, LSTM, GANs)",
+      "Practice image and text data projects",
+      "Implement models using TensorFlow or PyTorch",
+      "Explore real-world AI case studies",
+      "Build a portfolio of AI-powered applications"
+    ]
+  },
+  "Cybersecurity Analyst": {
+    "skills": ["Networking", "Linux", "Firewalls", "Cryptography", "Ethical Hacking", "Vulnerability Assessment", "Penetration Testing"],
+    "courses": [
+      "Network Security Essentials",
+      "Ethical Hacking Fundamentals",
+      "Certified Ethical Hacker (CEH) Prep",
+      "CompTIA Security+ Certification"
+    ],
+    "roadmap": [
+      "Learn computer networks and OSI model",
+      "Master Linux commands and system administration",
+      "Understand common attack types (malware, phishing, DDoS)",
+      "Explore cybersecurity tools (Wireshark, Metasploit, Nmap)",
+      "Study encryption, hashing, and authentication techniques",
+      "Perform vulnerability scanning and penetration testing",
+      "Get certified (CEH, CompTIA Security+, CISSP)"
+    ]
+  },
+  "Data Analyst": {
+    "skills": ["Excel", "SQL", "Python", "Power BI", "Tableau", "Data Visualization", "Statistics"],
+    "courses": [
+      "Data Analysis with Python",
+      "Excel to MySQL: Analytic Techniques",
+      "Power BI for Business Analytics",
+      "Tableau Data Visualization Bootcamp"
+    ],
+    "roadmap": [
+      "Learn Excel and spreadsheet analysis",
+      "Master SQL queries and data extraction",
+      "Analyze datasets with Python (Pandas, NumPy)",
+      "Visualize insights with Power BI or Tableau",
+      "Understand key business metrics and KPIs",
+      "Create dashboards and presentations",
+      "Build analytical reports for real-world problems"
+    ]
+  },
+  "Mobile App Developer": {
+    "skills": ["Java", "Kotlin", "Android Studio", "Flutter", "Dart", "Firebase", "REST APIs"],
+    "courses": [
+      "Android App Development with Kotlin",
+      "Flutter Development Bootcamp",
+      "Firebase for Mobile Apps"
+    ],
+    "roadmap": [
+      "Learn programming basics with Java or Kotlin",
+      "Understand Android Studio environment",
+      "Build simple Android apps",
+      "Explore cross-platform development using Flutter & Dart",
+      "Integrate backend services using Firebase",
+      "Add authentication and cloud storage",
+      "Publish your app to Play Store"
+    ]
+  },
+  "Cloud Engineer": {
+    "skills": ["AWS", "Azure", "Google Cloud", "Linux", "Networking", "Docker", "Kubernetes", "DevOps"],
+    "courses": [
+      "AWS Cloud Practitioner Essentials",
+      "Google Cloud Fundamentals",
+      "Docker & Kubernetes for Beginners",
+      "Microsoft Azure Administrator"
+    ],
+    "roadmap": [
+      "Understand cloud computing concepts and deployment models",
+      "Learn Linux command line and shell scripting",
+      "Get familiar with virtualization and containerization",
+      "Practice deploying applications on AWS / GCP / Azure",
+      "Study networking, storage, and IAM in cloud platforms",
+      "Implement CI/CD pipelines with Docker and Kubernetes",
+      "Get certified (AWS Solutions Architect / GCP Associate)"
+    ]
+  },
+  "Game Developer": {
+    "skills": ["C#", "Unity", "C++", "3D Modelling", "Animation", "Game Physics", "AI for Games"],
+    "courses": [
+      "Unity Game Development for Beginners",
+      "Unreal Engine Masterclass",
+      "C# Programming for Game Development"
+    ],
+    "roadmap": [
+      "Learn programming with C# or C++",
+      "Understand game loops, assets, and rendering concepts",
+      "Master Unity or Unreal Engine interface",
+      "Create small 2D or 3D games",
+      "Implement physics, animation, and sound",
+      "Explore game AI and character movement",
+      "Build and publish a complete game project"
+    ]
+  },
+  "Digital Marketer": {
+    "skills": ["SEO", "Google Ads", "Social Media Marketing", "Content Strategy", "Analytics", "Email Marketing"],
+    "courses": [
+      "Digital Marketing Specialization",
+      "Google Analytics Certification",
+      "SEO Mastery Workshop"
+    ],
+    "roadmap": [
+      "Learn fundamentals of marketing and branding",
+      "Understand SEO, SEM, and PPC campaigns",
+      "Master Google Ads and Facebook Ads",
+      "Work with social media tools and scheduling",
+      "Learn content strategy and analytics tracking",
+      "Run real campaigns and measure ROI",
+      "Develop portfolio with case studies"
+    ]
+  },
+  "Software Engineer": {
+    "skills": ["C++", "Java", "Python", "Data Structures", "Algorithms", "Git", "OOP", "System Design"],
+    "courses": [
+      "Object-Oriented Programming in Java",
+      "Data Structures & Algorithms Masterclass",
+      "System Design for Beginners"
+    ],
+    "roadmap": [
+      "Master one programming language (C++, Java, or Python)",
+      "Understand OOP principles and best practices",
+      "Study data structures and algorithms deeply",
+      "Build small coding projects and apps",
+      "Learn version control using Git & GitHub",
+      "Explore software architecture and design patterns",
+      "Contribute to open-source or internship projects"
+    ]
+  }
+}
