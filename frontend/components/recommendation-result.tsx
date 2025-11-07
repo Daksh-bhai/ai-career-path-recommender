@@ -61,7 +61,8 @@ export default function RecommendationResult({ data }: RecommendationResultProps
         <Button
           onClick={handleDownloadPDF}
           disabled={isGeneratingPDF}
-          className="bg-secondary hover:bg-secondary/90 text-secondary-foreground border border-primary disabled:opacity-50 disabled:cursor-not-allowed"
+          variant="secondary"
+          className="text-secondary-foreground border border-primary disabled:opacity-50 disabled:cursor-not-allowed"
         >
           {isGeneratingPDF ? "⏳ Generating PDF..." : "📥 Download as PDF"}
         </Button>
